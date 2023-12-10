@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306756482677",
+    "project_id": "exfinalgmaco",
+    "storage_bucket": "exfinalgmaco.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306756482677:android:7408dac0bcf58203f62a3c",
+        "android_client_info": {
+          "package_name": "com.example.efinal_gmaco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2NiNo6FpKZD6Gv5qhm_YbLRC59OO9bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
